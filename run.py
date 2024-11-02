@@ -1,4 +1,4 @@
-# app.py
+# run.py
 from app.discord.bot_module import bot
 import os
 from app import create_app
